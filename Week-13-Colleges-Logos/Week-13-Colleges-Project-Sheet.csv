@@ -1,12 +1,13 @@
-Title,Filename,Caption
-Arizona State University,asu.png,Change this
-Caltech,caltech.png,Change this
-Harvard University,harvard.png,Change this
-Massachussetts Institute of Techonology,mit.png,Change this
-Princeton University,princeton.png,Change this
-Stanford University,stanford.png,Change this
-University of Arizona,ua.png,Change this
-University of Washington,uw.png,Change this
-Washington State University,wsu.png,Change this
-Yale University,yale.png,Change this
+Title,Filename,size_bytes,Caption
+Arizona State University,1kb,asu.png,Change this
+Caltech,caltech.png,1kb,Change this
+Harvard University,harvard.png,1kb,Change this
+Massachussetts Institute of Techonology,mit.png,1kb,Change this
+Princeton University,princeton.png,1kb,Change this
+Stanford University,stanford.png,1kb,Change this
+University of Arizona,ua.png,1kb,Change this
+University of Washington,uw.png,1kb,Change this
+Washington State University,wsu.png,1kb,Change this
+Yale University,yale.png,1kb,Change this
+
 
