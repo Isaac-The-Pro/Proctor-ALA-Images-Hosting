@@ -1,4 +1,4 @@
-Title,Filename,size_bytes,Caption
+title,filename,size_bytes,caption
 Arizona State University,1kb,asu.png,Change this
 Caltech,caltech.png,1kb,Change this
 Harvard University,harvard.png,1kb,Change this
@@ -9,5 +9,6 @@ University of Arizona,ua.png,1kb,Change this
 University of Washington,uw.png,1kb,Change this
 Washington State University,wsu.png,1kb,Change this
 Yale University,yale.png,1kb,Change this
+
 
 
